@@ -1,5 +1,5 @@
 {
-    "name": "tulip/hydra-php-sdk",
+    "name": "forktulip/hydra-php-sdk",
     "description": "Client for Hydra",
     "keywords": [
         "swagger",
